@@ -1,2 +1,1 @@
-## Stephanie's blog ##
-
+## Stephanie's Data Science blog ##
